@@ -136,13 +136,13 @@ I enjoy working across the data analytics lifecycle — from **SQL queries and P
 ## ⚡ GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joshiaviral&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 </p>
 
 ### 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="70%"/>
+  <img src="https://streak-stats.demolab.com?user=joshiaviral&theme=tokyonight&hide_border=true" width="70%"/>
 </p>
 
 ---
