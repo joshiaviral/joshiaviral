@@ -133,33 +133,34 @@ I enjoy working across the data analytics lifecycle — from **SQL queries and P
 
 ---
 
-# 🔥 My GitHub Activity
-
-### 📅 Contribution Heatmap
+## ⚡ GitHub Activity
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/your-github-username" alt="GitHub Contribution Chart" width="850"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 </p>
+
+### 🔥 Contribution Streak
 
 <p align="center">
-
-🟩 Low   
-🟢 Medium   
-🟢 High   
-🔥 Very Active
-
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="70%"/>
 </p>
-
-> **Every square represents a day of building, learning, analyzing, or experimenting.**
 
 ---
 
-# 📊 GitHub Analytics
+### 🟩 My GitHub Contribution Calendar
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
+  <!-- Your native GitHub contribution heatmap appears automatically above this section -->
+
 </p>
+
+> `░` Exploring    `▒` Learning    `▓` Building    `█` Shipping
+
+<p align="center">
+  <b>Every contribution is a small step toward becoming a better data analyst.</b>
+</p>
+
 
 ---
 
